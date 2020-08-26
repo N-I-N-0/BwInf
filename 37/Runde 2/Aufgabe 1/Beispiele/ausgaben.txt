@@ -1,0 +1,100 @@
+﻿I:\BWINF.2\Lisa_rennt>lisa_rennt.rb
+Gebe den Namen der einzulesenen .txt Datei ein:
+lisarennt1.txt
+Um den Bus noch zu erreichen muss Lisa spätestens um 7:28:0 los laufen auf der folgenden Strecke:
+
+x | y | id des Polygons, welches berührt wird
+633.0 | 189.0 | L
+535.0 | 410.0 | P1
+0.0 | 718.8823940164498 | Treffpunkt mit Bus
+
+Lisa erreicht auf diesem Weg den Bus um 7:31:26 - der Weg hat eine Gesamzlänge von 859.5187952385713 Metern.
+
+Sie benötigt dafür eine Zeit von 0h 3min 26sek.
+
+Lisas Strecke wurde in folgender Datei abgespeichert: 2019-04-28 13-46-33.svg
+Die roten Linien stellen alle Wege zwischen den Ecken der Polygone dar, die gelben Linien alle direkten Wege zum Rand und die grüne Linie zeigt den besten gefunden Weg an, den Lisa laufen kann.
+
+I:\BWINF.2\Lisa_rennt>lisa_rennt.rb
+Gebe den Namen der einzulesenen .txt Datei ein:
+lisarennt2.txt
+Um den Bus noch zu erreichen muss Lisa spätestens um 7:28:9 los laufen auf der folgenden Strecke:
+
+x | y | id des Polygons, welches berührt wird
+633.0 | 189.0 | L
+505.0 | 213.0 | P1
+390.0 | 260.0 | P1
+170.0 | 402.0 | P3
+0.0 | 500.14954576223636 | Treffpunkt mit Bus
+
+Lisa erreicht auf diesem Weg den Bus um 7:31:0 - der Weg hat eine Gesamzlänge von 712.6105908652551 Metern.
+
+Sie benötigt dafür eine Zeit von 0h 2min 51sek.
+
+Lisas Strecke wurde in folgender Datei abgespeichert: 2019-04-28 13-46-39.svg
+Die roten Linien stellen alle Wege zwischen den Ecken der Polygone dar, die gelben Linien alle direkten Wege zum Rand und die grüne Linie zeigt den besten gefunden Weg an, den Lisa laufen kann.
+
+I:\BWINF.2\Lisa_rennt>lisa_rennt.rb
+Gebe den Namen der einzulesenen .txt Datei ein:
+lisarennt3.txt
+Um den Bus noch zu erreichen muss Lisa spätestens um 7:27:29 los laufen auf der folgenden Strecke:
+
+x | y | id des Polygons, welches berührt wird
+479.0 | 168.0 | L
+519.0 | 238.0 | P2
+599.0 | 258.0 | P3
+499.0 | 298.0 | P3
+426.0 | 238.0 | P8
+390.0 | 288.0 | P5
+352.0 | 287.0 | P6
+291.0 | 296.0 | P6
+0.0 | 464.00892833418106 | Treffpunkt mit Bus
+
+Lisa erreicht auf diesem Weg den Bus um 7:30:56 - der Weg hat eine Gesamzlänge von 862.5844316766888 Metern.
+
+Sie benötigt dafür eine Zeit von 0h 3min 27sek.
+
+Lisas Strecke wurde in folgender Datei abgespeichert: 2019-04-28 13-46-46.svg
+Die roten Linien stellen alle Wege zwischen den Ecken der Polygone dar, die gelben Linien alle direkten Wege zum Rand und die grüne Linie zeigt den besten gefunden Weg an, den Lisa laufen kann.
+
+I:\BWINF.2\Lisa_rennt>lisa_rennt.rb
+Gebe den Namen der einzulesenen .txt Datei ein:
+lisarennt4.txt
+Um den Bus noch zu erreichen muss Lisa spätestens um 7:26:56 los laufen auf der folgenden Strecke:
+
+x | y | id des Polygons, welches berührt wird
+856.0 | 270.0 | L
+900.0 | 300.0 | P11
+900.0 | 340.0 | P11
+896.0 | 475.0 | P10
+0.0 | 992.3058411939046 | Treffpunkt mit Bus
+
+Lisa erreicht auf diesem Weg den Bus um 7:31:59 - der Weg hat eine Gesamzlänge von 1262.9250364694046 Metern.
+
+Sie benötigt dafür eine Zeit von 0h 5min 3sek.
+
+Lisas Strecke wurde in folgender Datei abgespeichert: 2019-04-28 13-46-54.svg
+Die roten Linien stellen alle Wege zwischen den Ecken der Polygone dar, die gelben Linien alle direkten Wege zum Rand und die grüne Linie zeigt den besten gefunden Weg an, den Lisa laufen kann.
+
+I:\BWINF.2\Lisa_rennt>lisa_rennt.rb
+Gebe den Namen der einzulesenen .txt Datei ein:
+lisarennt5.txt
+Um den Bus noch zu erreichen muss Lisa spätestens um 7:27:55 los laufen auf der folgenden Strecke:
+
+x | y | id des Polygons, welches berührt wird
+621.0 | 162.0 | L
+410.0 | 175.0 | P8
+380.0 | 165.0 | P3
+320.0 | 165.0 | P3
+280.0 | 215.0 | P5
+200.0 | 215.0 | P5
+170.0 | 215.0 | P6
+130.0 | 265.0 | P9
+0.0 | 340.05553499465134 | Treffpunkt mit Bus
+
+Lisa erreicht auf diesem Weg den Bus um 7:30:41 - der Weg hat eine Gesamzlänge von 691.1964259470017 Metern.
+
+Sie benötigt dafür eine Zeit von 0h 2min 46sek.
+
+Lisas Strecke wurde in folgender Datei abgespeichert: 2019-04-28 13-47-01.svg
+Die roten Linien stellen alle Wege zwischen den Ecken der Polygone dar, die gelben Linien alle direkten Wege zum Rand und die grüne Linie zeigt den besten gefunden Weg an, den Lisa laufen kann.

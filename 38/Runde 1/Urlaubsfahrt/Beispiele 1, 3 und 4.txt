@@ -1,0 +1,73 @@
+NIN0:4 nin0$ ruby Urlaubsfahrt.rb
+Gebe den Namen der einzulesenden Datei ein (z.B. fahrt5.txt):
+fahrt1.txt
+Gebe eine Obergrenze an, welche besagt, wie viele Tankstellen von jeder anderen aus beim Testen angefahren werden können (siehe Dokumentation):
+42
+Position (in km): 0
+Zu tankende Liter: 0.0
+Preis dieser (in Cent): 0
+
+Position (in km): 100
+Zu tankende Liter: 10.0
+Preis dieser (in Cent): 1450
+
+Position (in km): 400
+Zu tankende Liter: 48.0
+Preis dieser (in Cent): 6720
+
+Position (in km): 1000
+Zu tankende Liter: 0.0
+Preis dieser (in Cent): 0
+
+Anzahl an anzufahrenden Tankstellen auf dieser Route: 2
+Es müssen auf dem Weg 58.0 Liter getankt werden.
+Insgesamt betragen die Kosten auf diesem Weg 8170 Cent.
+Es wurde folgende Zeit zur Berechnung der Lösung benötigt: 8.5e-05
+
+NIN0:4 nin0$ ruby Urlaubsfahrt.rb
+Gebe den Namen der einzulesenden Datei ein (z.B. fahrt5.txt):
+fahrt3.txt
+Gebe eine Obergrenze an, welche besagt, wie viele Tankstellen von jeder anderen aus beim Testen angefahren werden können (siehe Dokumentation):
+42
+Position (in km): 0
+Zu tankende Liter: 0.0
+Preis dieser (in Cent): 0
+
+Position (in km): 465
+Zu tankende Liter: 80.0
+Preis dieser (in Cent): 9920
+
+Position (in km): 800
+Zu tankende Liter: 0.0
+Preis dieser (in Cent): 0
+
+Anzahl an anzufahrenden Tankstellen auf dieser Route: 1
+Es müssen auf dem Weg 80.0 Liter getankt werden.
+Insgesamt betragen die Kosten auf diesem Weg 9920 Cent.
+Es wurde folgende Zeit zur Berechnung der Lösung benötigt: 0.000112
+
+NIN0:4 nin0$ ruby Urlaubsfahrt.rb
+Gebe den Namen der einzulesenden Datei ein (z.B. fahrt5.txt):
+fahrt4.txt
+Gebe eine Obergrenze an, welche besagt, wie viele Tankstellen von jeder anderen aus beim Testen angefahren werden können (siehe Dokumentation):
+42
+Position (in km): 0
+Zu tankende Liter: 0.0
+Preis dieser (in Cent): 0
+
+Position (in km): 264
+Zu tankende Liter: 88.2
+Preis dieser (in Cent): 10584
+
+Position (in km): 607
+Zu tankende Liter: 100.8
+Preis dieser (in Cent): 13104
+
+Position (in km): 1000
+Zu tankende Liter: 0.0
+Preis dieser (in Cent): 0
+
+Anzahl an anzufahrenden Tankstellen auf dieser Route: 2
+Es müssen auf dem Weg 189.0 Liter getankt werden.
+Insgesamt betragen die Kosten auf diesem Weg 23688 Cent.
+Es wurde folgende Zeit zur Berechnung der Lösung benötigt: 0.000214

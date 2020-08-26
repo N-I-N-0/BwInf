@@ -1,0 +1,23 @@
+NIN0:2 nin0$ ruby abschaetzung.rb
+0054-8000-0005-1797-34
+Anzahl der Blöcke mit 0 am Anfang: 2
+
+0349-5929-5337-9015-4412-660
+Anzahl der Blöcke mit 0 am Anfang: 1
+
+5319-9748-7902-2725-6076-201-79
+Anzahl der Blöcke mit 0 am Anfang: 0
+
+9088-7610-5169-9482-7890-3833-1267
+Anzahl der Blöcke mit 0 am Anfang: 0
+
+01-1000-0000-1100-0100-1111-1110-1011
+Anzahl der Blöcke mit 0 am Anfang: 3
+
+10-1000-0100-0100
+Anzahl der Blöcke mit 0 am Anfang: 2
+
+
+
+
+

@@ -1,0 +1,15 @@
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\bin\Release\Auf_und_Ab.exe.config
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\bin\Release\Auf_und_Ab.exe.manifest
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\bin\Release\Auf_und_Ab.application
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\bin\Release\Auf_und_Ab.exe
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\bin\Release\Auf_und_Ab.pdb
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\bin\Release\Auf_und_Ab.xml
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.Form1.resources
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.Resources.resources
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.vbproj.GenerateResource.cache
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.vbproj.CoreCompileInputs.cache
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.exe.manifest
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.application
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.exe
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.xml
+I:\BWINF 2018\Auf und Ab\Lösung mit Oberfläche\Auf_und_Ab\Auf_und_Ab\obj\Release\Auf_und_Ab.pdb
